@@ -1,0 +1,99 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Sample component correctly 1`] = `
+<div>
+  <span
+    className="message"
+  >
+    Hello world:
+  </span>
+  <ul>
+    <li>
+      one
+    </li>
+    <li>
+      two
+    </li>
+    <li>
+      three
+    </li>
+  </ul>
+  <StyledMessageBarBase
+    messageBarType={0}
+  >
+    No results found.
+  </StyledMessageBarBase>
+  <StyledSearchBoxBase />
+  <Placeholder
+    buttonLabel="Configure"
+    description="Please configure the web part."
+    iconName="Edit"
+    iconText="Configure your web part"
+  />
+  <WebPartTitle
+    title="Hello"
+    updateProperty={[Function]}
+  />
+  <StyledNavBase
+    collapsedStateText="Collapsed"
+    expandedStateText="Expand"
+    groups={
+      Array [
+        Object {
+          "links": Array [],
+        },
+      ]
+    }
+    key="umqj044qya1krec1b6snn"
+  />
+</div>
+`;
+
+exports[`should render Sample component correctly 2`] = `
+<div>
+  <span
+    className="message"
+  >
+    Hello world:
+  </span>
+  <ul>
+    <li>
+      one
+    </li>
+    <li>
+      two
+    </li>
+    <li>
+      three
+    </li>
+  </ul>
+  <StyledMessageBarBase
+    messageBarType={0}
+  >
+    No results found.
+  </StyledMessageBarBase>
+  <StyledSearchBoxBase />
+  <Placeholder
+    buttonLabel="Configure"
+    description="Please configure the web part."
+    iconName="Edit"
+    iconText="Configure your web part"
+  />
+  <WebPartTitle
+    title="Hello"
+    updateProperty={[Function]}
+  />
+  <StyledNavBase
+    collapsedStateText="Collapsed"
+    expandedStateText="Expand"
+    groups={
+      Array [
+        Object {
+          "links": Array [],
+        },
+      ]
+    }
+    key="umqj044qya1krec1b6snn"
+  />
+</div>
+`;

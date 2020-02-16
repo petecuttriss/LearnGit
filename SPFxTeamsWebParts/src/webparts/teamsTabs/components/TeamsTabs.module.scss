@@ -1,0 +1,105 @@
+@import "~office-ui-fabric-react/dist/sass/References.scss";
+@import "node_modules/office-ui-fabric-react/dist/css/fabric.css";
+
+:global {
+  /*@import "node_modules/office-ui-fabric-react/dist/css/fabric.css";*/
+
+  /*.nav {
+    background-color: "[theme:themeLight, default:#b3d6f2]";
+  }
+
+  .ms-Nav-chevronButton.ms-Nav-chevronButton{
+    color: "[theme:themeLight, default:#b3d6f2]";
+    background-color: "[theme:themeDarker, default:#004578]";
+  }
+  .ms-Nav-chevronButton:hover {
+    color: "[theme:themeLight, default:#b3d6f2]";
+    background-color: "[theme:themeDark, default:#005a9e]";
+  }
+
+  .ms-Nav-compositeLink{
+    background-color: "[theme:neutralLighter, default:#f4f4f4]";
+  }
+
+  .ms-Nav-compositeLink:hover{
+    background-color: "[theme:neutralLighter, default:#f4f4f4]";
+  }
+
+  .ms-Button:hover::after{
+    content: "";
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    pointer-events: none;
+    border-left: 2px solid "[theme:themeDark, default:#005a9e]";
+  }*/
+}
+
+.teamsTabs {
+  .container {
+    margin: 0px auto;
+  }
+
+  .row {
+    @include ms-Grid-row;
+    @include ms-fontColor-themePrimary;
+    //background-color: $ms-color-themeLight;
+    padding: 20px;
+  }
+
+  .column {
+    @include ms-Grid-col;
+    width: 100%;
+  }
+
+  .title div {
+    @include ms-font-xl;
+    @include ms-fontColor-themePrimary;
+    color: "[theme:themePrimary, default:#0078d4]";
+  }
+
+  .nav {
+    > div {
+      padding: 0 5px;
+
+      > button {
+        margin: 0;
+        color: "[theme:themeLight, default:#b3d6f2]";
+        background-color: "[theme:themeDarker, default:#004578]";
+
+        :hover {
+          color: "[theme:themeLight, default:#b3d6f2]";
+        }
+      }
+
+      > div {
+        margin-bottom: 20px;
+
+        ul {
+          margin: 0;
+
+          > li > div {
+            background-color: "[theme:neutralLighter, default:#f4f4f4]";
+
+            :hover {
+              background-color: "[theme:neutralLight, default:#eaeaea]";
+            }
+          }
+        }
+      }
+    }
+
+    a:hover::after {
+      content: "";
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      pointer-events: none;
+      border-left: 2px solid "[theme:themeDark, default:#005a9e]";
+    }
+  }
+}

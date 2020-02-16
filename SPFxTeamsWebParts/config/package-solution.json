@@ -1,0 +1,29 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+    "solution": {
+        "title": "SPFx Teams Web Parts",
+        "name": "spfx-teams-web-parts-by-information-leadership",
+        "id": "21984287-bae3-4145-a4b7-62b2d3147772",
+        "version": "1.9.1.0",
+        "includeClientSideAssets": true,
+        "skipFeatureDeployment": true,
+        "isDomainIsolated": false,
+        "webApiPermissionRequests": [
+            {
+                "resource": "Microsoft Graph",
+                "scope": "Group.ReadWrite.All"
+            },
+            {
+                "resource": "Microsoft Graph",
+                "scope": "User.Read.All"
+            },
+            {
+                "resource": "Microsoft Graph",
+                "scope": "User.ReadWrite.All"
+            }
+        ]
+    },
+    "paths": {
+        "zippedPackage": "solution/sp-fx-teams-web-parts-by-information-leadership.sppkg"
+    }
+}

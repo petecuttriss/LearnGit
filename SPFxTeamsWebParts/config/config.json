@@ -1,0 +1,47 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "activity-teams-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/teamsByActivity/TeamsByActivityWebPart.js",
+          "manifest": "./src/webparts/teamsByActivity/TeamsByActivityWebPart.manifest.json"
+        }
+      ]
+    },
+    "teams-directory-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/teamsDirectory/TeamsDirectoryWebPart.js",
+          "manifest": "./src/webparts/teamsDirectory/TeamsDirectoryWebPart.manifest.json"
+        }
+      ]
+    },
+    "teams-tabs-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/teamsTabs/TeamsTabsWebPart.js",
+          "manifest": "./src/webparts/teamsTabs/TeamsTabsWebPart.manifest.json"
+        }
+      ]
+    },
+    "my-teams-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/myTeams/MyTeamsWebPart.js",
+          "manifest": "./src/webparts/myTeams/MyTeamsWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TeamsByActivityWebPartStrings": "lib/webparts/teamsByActivity/loc/{locale}.js",
+    "PropertyControlStrings": "node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js",
+    "ControlStrings": "node_modules/@pnp/spfx-controls-react/lib/loc/{locale}.js",
+    "TeamsDirectoryWebPartStrings": "lib/webparts/teamsDirectory/loc/{locale}.js",
+    "TeamsTabsWebPartStrings": "lib/webparts/teamsTabs/loc/{locale}.js",
+    "MyTeamsWebPartStrings": "lib/webparts/myTeams/loc/{locale}.js"
+  }
+}

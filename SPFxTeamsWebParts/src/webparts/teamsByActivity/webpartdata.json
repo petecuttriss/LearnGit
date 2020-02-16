@@ -1,0 +1,38 @@
+[
+    {
+        "controlType": 3,
+        "id": "add340b3-6fdc-4a49-98ad-9b914e47affd",
+        "position": {
+            "zoneIndex": 1,
+            "sectionIndex": 1,
+            "controlIndex": 1
+        },
+        "webPartId": "eb970e08-e338-4ee7-816f-622dff0b1fb6",
+        "webPartData": {
+            "id": "eb970e08-e338-4ee7-816f-622dff0b1fb6",
+            "instanceId": "add340b3-6fdc-4a49-98ad-9b914e47affd",
+            "title": "ActivityTeams",
+            "description": "Displays a listing of Teams that are tagged with the same Activity value as the current site.",
+            "serverProcessedContent": {
+                "htmlStrings": {},
+                "searchablePlainTexts": {},
+                "imageSources": {},
+                "links": {}
+            },
+            "dataVersion": "1.0",
+            "properties": {
+                "title": "Activity Teams",
+                "description": "Displaying Teams instances tagged with the activity: XYZ",
+                "siteUrl": "https://iworkplace.sharepoint.com",
+                "listId": "",
+                "odataFilter": "Activity eq 'Water Supply' and ContentType eq 'Activity'",
+                "hideTitle": false,
+                "hideSearchBox": true,
+                "openLinksInANewTab": true
+            }
+        },
+        "emphasis": {},
+        "reservedHeight": 290,
+        "reservedWidth": 744
+    }
+]

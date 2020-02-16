@@ -1,0 +1,721 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TeamsDirectory should exist 1`] = `
+<div
+  className="teamsDirectory"
+>
+  <div
+    className="container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="column"
+      >
+        <div
+          className="ms-Grid"
+          dir="ltr"
+        >
+          <div
+            className="ms-Grid-row"
+          >
+            <div
+              className="ms-Grid-col ms-sm12 ms-md7"
+            >
+              <WebPartTitle
+                className="title"
+                title="Teams Directory"
+                updateProperty={[Function]}
+              />
+            </div>
+            <div
+              className="ms-Grid-col ms-sm12 ms-md5"
+            >
+              <StyledSearchBoxBase
+                className="searchbox"
+                onClear={[Function]}
+                onSearch={[Function]}
+                placeholder="Search by title"
+              />
+            </div>
+          </div>
+          <div
+            className="ms-Grid-row"
+          >
+            <div
+              className="ms-Grid-col ms-sm12"
+            >
+              <StyledNavBase
+                className="nav"
+                collapsedStateText="Collapsed"
+                expandedStateText="Expand"
+                groups={
+                  Array [
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Cemeteries",
+                          "name": "Cemeteries",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Cemeteries",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Communications",
+                          "name": "Communications",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Communications",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Community Development",
+                          "name": "Community Development",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Community Development",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Community Outcomes",
+                          "name": "Community Outcomes",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Community Outcomes",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Recreation and Leisure",
+                          "name": "Recreation and Leisure",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Community Services",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Contract Management",
+                          "name": "Contract Management",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/contractmgmt",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Controlled Documents",
+                          "name": "Controlled Documents",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/controlleddocs",
+                        },
+                      ],
+                      "name": "Controlled Documents",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Customer Service",
+                          "name": "Customer Service",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Customer Service",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Emergency Management",
+                          "name": "Emergency Management",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Emergency Management",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Environmental Planning",
+                          "name": "Environmental Planning",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Environmental Planning",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Executive Management",
+                          "name": "Executive Management",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Executive Management",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "External Relationships",
+                          "name": "External Relationships",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "External Relationships",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Governance",
+                          "name": "Governance",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Governance",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Grants",
+                          "name": "Grants",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Grants",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Health and Safety",
+                          "name": "Health and Safety",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Health and Safety",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Housing",
+                          "name": "Housing",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Housing",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Employee Files",
+                          "name": "Employee Files",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/employeefiles",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "HR Recruitment methods",
+                          "name": "HR Recruitment methods",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/Reviewmarketingandpromotion",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Human Resources",
+                          "name": "Human Resources",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/hr",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Recruitment",
+                          "name": "Recruitment",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/recruitment",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Social Club Lunch",
+                          "name": "Social Club Lunch",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/SocialClubLunch",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Staff remuneration benchmarking 2019-20",
+                          "name": "Staff remuneration benchmarking 2019-20",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/Staffremunerationbenchmarking201920",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "University of Auckland  Careers Day",
+                          "name": "University of Auckland  Careers Day",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/UOACareers",
+                        },
+                      ],
+                      "name": "Human Resources",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Information Management",
+                          "name": "Information Management",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Information Management",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Auckland University Open Day",
+                          "name": "Auckland University Open Day",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/AKLUNI",
+                        },
+                        Object {
+                          "disabled": true,
+                          "key": "Information Services",
+                          "name": "Information Services",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Massey University Open Day",
+                          "name": "Massey University Open Day",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/MUniOPen",
+                        },
+                      ],
+                      "name": "Information Services",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Libraries",
+                          "name": "Libraries",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Libraries",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Management Accounting",
+                          "name": "Management Accounting",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Management Accounting",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Noise Control",
+                          "name": "Noise Control",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Noise Control",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Payments",
+                          "name": "Payments",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Payments",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Rating",
+                          "name": "Rating",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Rating",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Receivables",
+                          "name": "Receivables",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Receivables",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Resource Consents",
+                          "name": "Resource Consents",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Resource Consents",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Roading and Transport",
+                          "name": "Roading and Transport",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Roading and Transport",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Team Admin",
+                          "name": "Team Admin",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/TeamAdmin",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Team Management",
+                          "name": "Team Management",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/TeamMgmt",
+                        },
+                      ],
+                      "name": "Team Management",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Treasury",
+                          "name": "Treasury",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Treasury",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": true,
+                          "key": "Waste Management",
+                          "name": "Waste Management",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                      ],
+                      "name": "Waste Management",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Bore head replacement",
+                          "name": "Bore head replacement",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/BoreHeadReplacement",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Bromley Base Station Upgrade",
+                          "name": "Bromley Base Station Upgrade",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/BromleyBaseStationUpgrade",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Bronson Bridge waterline repairs",
+                          "name": "Bronson Bridge waterline repairs",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/BronsonBridge",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Burst Mains on High St - August 19",
+                          "name": "Burst Mains on High St - August 19",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/BurstMainsonHighStAugust19",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Chlorination Comms Program",
+                          "name": "Chlorination Comms Program",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/ChlorCommsProg",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Colombo street water mains earthquake repairs",
+                          "name": "Colombo street water mains earthquake repairs",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/ColomboEQrepairs",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Eastern Suburb Flooding - June 19",
+                          "name": "Eastern Suburb Flooding - June 19",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/EasternSuburbFloodingJune19",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Main Line Rebuild",
+                          "name": "Main Line Rebuild",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/MainLineRebuild",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Merival Water Contamination Sep19",
+                          "name": "Merival Water Contamination Sep19",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/MerivalWaterContaminationSep19",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Papanui Road Trunkline Comms",
+                          "name": "Papanui Road Trunkline Comms",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/PapanuiRoadTrunklineComms",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "SB165 Water Bore Replacement",
+                          "name": "SB165 Water Bore Replacement",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/SB165",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Water Conservation Campaign",
+                          "name": "Water Conservation Campaign",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/WaterConservation",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Water Supply",
+                          "name": "Water Supply",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/watersupply",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Water Supply Communications",
+                          "name": "Water Supply Communications",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/WaterSupplyCommunications",
+                        },
+                      ],
+                      "name": "Water Supply",
+                    },
+                    Object {
+                      "collapseByDefault": true,
+                      "links": Array [
+                        Object {
+                          "disabled": false,
+                          "key": "Canterbury University Open Day",
+                          "name": "Canterbury University Open Day",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/CUNi",
+                        },
+                        Object {
+                          "disabled": true,
+                          "key": "Community Services",
+                          "name": "Community Services",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Corporate Management",
+                          "name": "Corporate Management",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/corporatemgmt",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Corporate Netball Team",
+                          "name": "Corporate Netball Team",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/Netball",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Example of a public site",
+                          "name": "Example of a public site",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/PublicSiteExample",
+                        },
+                        Object {
+                          "disabled": true,
+                          "key": "Financial Management",
+                          "name": "Financial Management",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "ILTestSite16883",
+                          "name": "ILTestSite16883",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/ILTestSite16883",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Infrastructure Management",
+                          "name": "Infrastructure Management",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/infrastructuremgmt",
+                        },
+                        Object {
+                          "disabled": true,
+                          "key": "Parks and Reserves",
+                          "name": "Parks and Reserves",
+                          "target": "_blank",
+                          "url": "",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Projects",
+                          "name": "Projects",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/projects",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Template - Activity Site",
+                          "name": "Template - Activity Site",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/templateactivity",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Template - Project Site",
+                          "name": "Template - Project Site",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/templateproject",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "TestSIAEngine",
+                          "name": "TestSIAEngine",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/TestSIAEngine",
+                        },
+                        Object {
+                          "disabled": false,
+                          "key": "Workspaces",
+                          "name": "Workspaces",
+                          "target": "_blank",
+                          "url": "https://iworkplace.sharepoint.com/sites/Workspaces",
+                        },
+                      ],
+                      "name": "Unknown",
+                    },
+                  ]
+                }
+                key="ezwsley6hh9gc4umv27ror"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

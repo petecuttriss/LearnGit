@@ -1,0 +1,113 @@
+{
+    "Network Maintenance": [
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "897f2664-fe52-4e53-8558-4b5ab55c640a",
+        "odata.etag": "\"6\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(71)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(71)/ContentType",
+        "Title": "Bromley Base Station Upgrade",
+        "SFDesc": "The Bromley Base Station reticulation has aged and is now requires upgrade to meet peak flow requirements.",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Bromley Base Station Upgrade",
+          "Url": "https://iworkplace.sharepoint.com/sites/BromleyBaseStationUpgrade"
+        },
+        "Subactivity": "Network Maintenance"
+      },
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "1fdc4b2e-0090-4f29-8f05-d5acf9661504",
+        "odata.etag": "\"7\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(68)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(68)/ContentType",
+        "Title": "Papanui Road Trunkline Comms",
+        "SFDesc": "Team to co-ordinate and communicate trunkline update comms plan files",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Papanui Road Trunkline Comms",
+          "Url": "https://iworkplace.sharepoint.com/sites/PapanuiRoadTrunklineComms"
+        },
+        "Subactivity": "Network Maintenance"
+      }
+    ],
+    "Network Incident Management": [
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "dc86def4-8ad3-44da-adde-a4b9b57d6c4d",
+        "odata.etag": "\"6\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(95)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(95)/ContentType",
+        "Title": "Bronson Bridge waterline repairs",
+        "SFDesc": null,
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Bronson Bridge waterline repairs",
+          "Url": "https://iworkplace.sharepoint.com/sites/BronsonBridge"
+        },
+        "Subactivity": "Network Incident Management"
+      },
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "4f6176d9-1702-4ea2-8f2c-8a86b4bdc73a",
+        "odata.etag": "\"8\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(89)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(89)/ContentType",
+        "Title": "Burst Mains on High St - August 19",
+        "SFDesc": "The mains burst on High Street. This Team will coordinate the repair.",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Burst Mains on High St - August 19",
+          "Url": "https://iworkplace.sharepoint.com/sites/BurstMainsonHighStAugust19"
+        },
+        "Subactivity": "Network Incident Management"
+      },
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "f4914183-9e7a-4f54-8258-d68b87a8cc97",
+        "odata.etag": "\"3\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(72)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(72)/ContentType",
+        "Title": "Eastern Suburb Flooding - June 19",
+        "SFDesc": "This Team will coordinate both the initial flood response and remediation activities.",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Eastern Suburb Flooding - June 19",
+          "Url": "https://iworkplace.sharepoint.com/sites/EasternSuburbFloodingJune19"
+        },
+        "Subactivity": "Network Incident Management"
+      },
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "4eadf7aa-ef2c-41bc-9f1b-48eb7941f751",
+        "odata.etag": "\"6\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(70)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(70)/ContentType",
+        "Title": "Merival Water Contamination Sep19",
+        "SFDesc": "Argh! 🧛‍♀️",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Merival Water Contamination Sep19",
+          "Url": "https://iworkplace.sharepoint.com/sites/MerivalWaterContaminationSep19"
+        },
+        "Subactivity": "Network Incident Management"
+      }
+    ],
+    "Communications and Support": [
+      {
+        "odata.type": "SP.Data.SitesRegisterItem",
+        "odata.id": "4a3f5a7f-1e15-4b68-a16b-3b72a38b5160",
+        "odata.etag": "\"7\"",
+        "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(85)",
+        "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(85)/ContentType",
+        "Title": "Water Supply Communications",
+        "SFDesc": "This Team provides Comms support for Council staff who work with our Water Supply customers.",
+        "SIAStatus": "03 Active",
+        "SFLink": {
+          "Description": "Water Supply Communications",
+          "Url": "https://iworkplace.sharepoint.com/sites/WaterSupplyCommunications"
+        },
+        "Subactivity": "Communications and Support"
+      }
+    ]
+  }

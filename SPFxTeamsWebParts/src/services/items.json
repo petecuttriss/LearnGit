@@ -1,0 +1,1054 @@
+[
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "c805c25b-fef1-4273-97c8-11e71c7d86d8",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(114)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(114)/ContentType",
+    "Title": "Auckland University Open Day",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Auckland University Open Day",
+      "Url": "https://iworkplace.sharepoint.com/sites/AKLUNI"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Information Services",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "19d771d6-01b8-4a28-af8b-fc13dc3952a2",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(93)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(93)/ContentType",
+    "Title": "Bore head replacement",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Bore head replacement",
+      "Url": "https://iworkplace.sharepoint.com/sites/BoreHeadReplacement"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "935684f2-8a1a-45e7-8a4a-24b00b04e419",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(71)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(71)/ContentType",
+    "Title": "Bromley Base Station Upgrade",
+    "SFDesc": "The Bromley Base Station reticulation has aged and is now requires upgrade to meet peak flow requirements.",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Bromley Base Station Upgrade",
+      "Url": "https://iworkplace.sharepoint.com/sites/BromleyBaseStationUpgrade"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Maintenance"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "05619a06-68ab-49d5-87b4-86043c00d785",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(95)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(95)/ContentType",
+    "Title": "Bronson Bridge waterline repairs",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Bronson Bridge waterline repairs",
+      "Url": "https://iworkplace.sharepoint.com/sites/BronsonBridge"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Incident Management"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "e274b236-2d3a-4f77-9f24-98f174adf306",
+    "odata.etag": "\"8\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(89)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(89)/ContentType",
+    "Title": "Burst Mains on High St - August 19",
+    "SFDesc": "The mains burst on High Street. This Team will coordinate the repair.",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Burst Mains on High St - August 19",
+      "Url": "https://iworkplace.sharepoint.com/sites/BurstMainsonHighStAugust19"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Incident Management"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "236c3ce6-50ae-4488-84f8-628ffd89bcfc",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(109)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(109)/ContentType",
+    "Title": "Canterbury University Open Day",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Canterbury University Open Day",
+      "Url": "https://iworkplace.sharepoint.com/sites/CUNi"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "8c97e02a-f579-430a-9dcf-651179fe72f0",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(54)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(54)/ContentType",
+    "Title": "Cemeteries",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Cemeteries",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "84cd6ec7-fc3d-43d4-947b-5abbd6349711",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(92)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(92)/ContentType",
+    "Title": "Chlorination Comms Program",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Chlorination Comms Program",
+      "Url": "https://iworkplace.sharepoint.com/sites/ChlorCommsProg"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Communications and Support"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "3f5d9f3a-8433-4147-8925-c0e3da1f954b",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(97)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(97)/ContentType",
+    "Title": "Colombo street water mains earthquake repairs",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Colombo street water mains earthquake repairs",
+      "Url": "https://iworkplace.sharepoint.com/sites/ColomboEQrepairs"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "06c8e763-017e-4633-b749-2dd65d34d886",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(51)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(51)/ContentType",
+    "Title": "Communications",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Communications",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "038c2737-df95-4f7f-bac5-f41963ef4313",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(55)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(55)/ContentType",
+    "Title": "Community Development",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Community Development",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "f3e467cf-d15e-43b3-9f46-d6881b7cd20e",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(63)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(63)/ContentType",
+    "Title": "Community Outcomes",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Strategic Planning",
+    "Activity": "Community Outcomes",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "07415091-d16c-4f38-9d7e-12b38fd81028",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(53)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(53)/ContentType",
+    "Title": "Community Services",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "4ff52ab5-3789-49dc-b113-ff3bc61255e0",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(14)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(14)/ContentType",
+    "Title": "Contract Management",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Contract Management",
+      "Url": "https://iworkplace.sharepoint.com/sites/contractmgmt"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Controlled Documents",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "db9f1ce8-8127-4c00-8ea1-f20532a6c3e0",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(13)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(13)/ContentType",
+    "Title": "Controlled Documents",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Controlled Documents",
+      "Url": "https://iworkplace.sharepoint.com/sites/controlleddocs"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Controlled Documents",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "8e9e1a1e-9ee2-4e94-bb0b-0214bbb60805",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(17)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(17)/ContentType",
+    "Title": "Corporate Management",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Corporate Management",
+      "Url": "https://iworkplace.sharepoint.com/sites/corporatemgmt"
+    },
+    "Function": "Corporate Management",
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "b967267c-a621-40cd-bd11-a54cbc353246",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(100)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(100)/ContentType",
+    "Title": "Corporate Netball Team",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Corporate Netball Team",
+      "Url": "https://iworkplace.sharepoint.com/sites/Netball"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "dc920596-6fdf-4639-afc7-47b36e63680a",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(50)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(50)/ContentType",
+    "Title": "Customer Service",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Customer Service",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "f0a4f511-3952-47d3-9231-86a769d85712",
+    "odata.etag": "\"3\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(72)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(72)/ContentType",
+    "Title": "Eastern Suburb Flooding - June 19",
+    "SFDesc": "This Team will coordinate both the initial flood response and remediation activities.",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Eastern Suburb Flooding - June 19",
+      "Url": "https://iworkplace.sharepoint.com/sites/EasternSuburbFloodingJune19"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Incident Management"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "9b40ae19-20d4-46a9-b772-30f0bcb2c80e",
+    "odata.etag": "\"5\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(57)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(57)/ContentType",
+    "Title": "Emergency Management",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Emergency Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "08ffa2dd-effc-44a5-9555-600035a1ed53",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(12)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(12)/ContentType",
+    "Title": "Employee Files",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Employee Files",
+      "Url": "https://iworkplace.sharepoint.com/sites/employeefiles"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Employee Records"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "12dadcad-ce4c-4e9d-9b83-fba59b5e7d5b",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(64)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(64)/ContentType",
+    "Title": "Environmental Planning",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Strategic Planning",
+    "Activity": "Environmental Planning",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "be5e4e18-782b-481d-9f5e-b8a279039e2c",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(102)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(102)/ContentType",
+    "Title": "Example of a public site",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Example of a public site",
+      "Url": "https://iworkplace.sharepoint.com/sites/PublicSiteExample"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "6f02e31e-4d63-467d-9c9d-8cd978ee7b6b",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(49)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(49)/ContentType",
+    "Title": "Executive Management",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Executive Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "f40c1df5-ace2-4a97-8346-326d7c86a7a9",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(45)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(45)/ContentType",
+    "Title": "External Relationships",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "External Relationships",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "d357d71c-e635-43ea-adc3-3de5f727347c",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(29)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(29)/ContentType",
+    "Title": "Financial Management",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "92a683b4-1e38-42b7-9e05-e23e01c44277",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(48)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(48)/ContentType",
+    "Title": "Governance",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Governance",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "398ce8a7-566c-4486-81fd-beec1a46f86f",
+    "odata.etag": "\"3\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(25)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(25)/ContentType",
+    "Title": "Grants",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Grants",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "1b12f1ba-2c92-4d34-9346-44d3d3a1ec49",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(47)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(47)/ContentType",
+    "Title": "Health and Safety",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Health and Safety",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "4c8d77b2-d293-4cd1-9f5e-efc28dd44e6d",
+    "odata.etag": "\"3\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(26)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(26)/ContentType",
+    "Title": "Housing",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Housing",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "09548c20-bbb7-4bf7-87cd-36b9c4d7e964",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(98)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(98)/ContentType",
+    "Title": "HR Recruitment methods",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "HR Recruitment methods",
+      "Url": "https://iworkplace.sharepoint.com/sites/Reviewmarketingandpromotion"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Recruitment"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "d2d3652c-233b-4589-be42-69e32f7ca3cb",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(6)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(6)/ContentType",
+    "Title": "Human Resources",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Human Resources",
+      "Url": "https://iworkplace.sharepoint.com/sites/hr"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "c67cab34-5812-499d-8258-148d77220695",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(117)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(117)/ContentType",
+    "Title": "ILTestSite16883",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "ILTestSite16883",
+      "Url": "https://iworkplace.sharepoint.com/sites/ILTestSite16883"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "ab03212c-8ba1-493d-bc59-c2bd08a8f078",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(43)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(43)/ContentType",
+    "Title": "Information Management",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Information Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "44d96ce7-910c-4a59-8d82-d00ee0c40908",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(44)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(44)/ContentType",
+    "Title": "Information Services",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Corporate Management",
+    "Activity": "Information Services",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "b5771663-7be6-486b-95d1-94056f595315",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(16)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(16)/ContentType",
+    "Title": "Infrastructure Management",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Infrastructure Management",
+      "Url": "https://iworkplace.sharepoint.com/sites/infrastructuremgmt"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "daaf346b-86e3-4db8-a650-0fa989604cb2",
+    "odata.etag": "\"3\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(27)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(27)/ContentType",
+    "Title": "Libraries",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Libraries",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "d5de27ab-cac3-4821-bec8-e0ab0cfec80c",
+    "odata.etag": "\"18\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(82)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(82)/ContentType",
+    "Title": "Main Line Rebuild",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Main Line Rebuild",
+      "Url": "https://iworkplace.sharepoint.com/sites/MainLineRebuild"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "a85f8bc3-4920-4080-8c0e-06a507991078",
+    "odata.etag": "\"7\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(30)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(30)/ContentType",
+    "Title": "Management Accounting",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": "Management Accounting",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "eec30d41-4557-484d-8f54-c833c646e091",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(110)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(110)/ContentType",
+    "Title": "Massey University Open Day",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Massey University Open Day",
+      "Url": "https://iworkplace.sharepoint.com/sites/MUniOPen"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Information Services",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "d4e5254d-4168-41f8-8f04-375b481efb2f",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(70)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(70)/ContentType",
+    "Title": "Merival Water Contamination Sep19",
+    "SFDesc": "Argh! 🧛‍♀️",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Merival Water Contamination Sep19",
+      "Url": "https://iworkplace.sharepoint.com/sites/MerivalWaterContaminationSep19"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Incident Management"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "28e83570-1f67-4481-8281-afbfd3e712f5",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(60)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(60)/ContentType",
+    "Title": "Noise Control",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Environmental Management",
+    "Activity": "Noise Control",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "65e29af2-4d6c-48e4-ad99-d4cf758ee7d8",
+    "odata.etag": "\"7\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(68)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(68)/ContentType",
+    "Title": "Papanui Road Trunkline Comms",
+    "SFDesc": "Team to co-ordinate and communicate trunkline update comms plan files",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Papanui Road Trunkline Comms",
+      "Url": "https://iworkplace.sharepoint.com/sites/PapanuiRoadTrunklineComms"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Network Maintenance"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "acfd2370-8a67-42d9-9235-6bcbc7129f00",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(58)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(58)/ContentType",
+    "Title": "Parks and Reserves",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "0058b0a6-5c0e-436c-847e-e17a92c62e7e",
+    "odata.etag": "\"7\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(31)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(31)/ContentType",
+    "Title": "Payments",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": "Payments",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "16698ec8-f0be-4096-8383-144bdc58abb1",
+    "odata.etag": "\"8\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(19)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(19)/ContentType",
+    "Title": "Projects",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Projects",
+      "Url": "https://iworkplace.sharepoint.com/sites/projects"
+    },
+    "Function": "Projects",
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "f01728c2-9893-46f9-b3c9-9ec8e15504e3",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(52)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(52)/ContentType",
+    "Title": "Rating",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": "Rating",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "8d6edae4-1020-4210-a733-485d2ff3ae04",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(33)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(33)/ContentType",
+    "Title": "Receivables",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": "Receivables",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "afcdcdef-8324-40d6-af58-e5cfda6ab867",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(28)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(28)/ContentType",
+    "Title": "Recreation and Leisure",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Community Services",
+    "Activity": "Community Services",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "2c405cb2-bfb6-47fa-9713-68dda5edaebe",
+    "odata.etag": "\"10\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(8)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(8)/ContentType",
+    "Title": "Recruitment",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Recruitment",
+      "Url": "https://iworkplace.sharepoint.com/sites/recruitment"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Recruitment"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "9d4e8f94-7763-4ebd-bc4c-3f4d6bcdac80",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(61)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(61)/ContentType",
+    "Title": "Resource Consents",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Environmental Management",
+    "Activity": "Resource Consents",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "c40b48f9-b291-4b1d-999c-0323df8ca005",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(59)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(59)/ContentType",
+    "Title": "Roading and Transport",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Infrastructure Management",
+    "Activity": "Roading and Transport",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "4a5aabbf-d1ac-449d-a321-5e76fe2748e7",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(96)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(96)/ContentType",
+    "Title": "SB165 Water Bore Replacement",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "SB165 Water Bore Replacement",
+      "Url": "https://iworkplace.sharepoint.com/sites/SB165"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "7c2ca91a-ec48-440e-ade0-e774cf691e90",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(87)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(87)/ContentType",
+    "Title": "Social Club Lunch",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Social Club Lunch",
+      "Url": "https://iworkplace.sharepoint.com/sites/SocialClubLunch"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Employee Engagement"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "933ed3c2-2b89-4c51-8115-230b7df77857",
+    "odata.etag": "\"8\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(88)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(88)/ContentType",
+    "Title": "Staff remuneration benchmarking 2019-20",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Staff remuneration benchmarking 2019-20",
+      "Url": "https://iworkplace.sharepoint.com/sites/Staffremunerationbenchmarking201920"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Rewards and Benefits"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "7c73220c-05b4-4843-a063-3ffc3d73dd8f",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(106)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(106)/ContentType",
+    "Title": "Team Admin",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Team Admin",
+      "Url": "https://iworkplace.sharepoint.com/sites/TeamAdmin"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Team Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "4e2103f0-d235-4b7c-98d6-a7cd9b55b979",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(115)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(115)/ContentType",
+    "Title": "Team Management",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Team Management",
+      "Url": "https://iworkplace.sharepoint.com/sites/TeamMgmt"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Team Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "70f87f82-6e97-4e5f-8128-34486aa65400",
+    "odata.etag": "\"8\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(3)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(3)/ContentType",
+    "Title": "Template - Activity Site",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Template - Activity Site",
+      "Url": "https://iworkplace.sharepoint.com/sites/templateactivity"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "bb9e7983-3e23-4663-8643-7e2ec8a19552",
+    "odata.etag": "\"4\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(18)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(18)/ContentType",
+    "Title": "Template - Project Site",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Template - Project Site",
+      "Url": "https://iworkplace.sharepoint.com/sites/templateproject"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "fa3894f3-9a5a-4131-aaea-4306c4b6186f",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(116)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(116)/ContentType",
+    "Title": "TestSIAEngine",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "TestSIAEngine",
+      "Url": "https://iworkplace.sharepoint.com/sites/TestSIAEngine"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "e32b91ef-5bd8-417e-8441-a4d9335c7d48",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(34)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(34)/ContentType",
+    "Title": "Treasury",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Financial Management",
+    "Activity": "Treasury",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "3325107c-1612-4362-ac3a-72989c4bc42c",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(99)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(99)/ContentType",
+    "Title": "University of Auckland  Careers Day",
+    "SFDesc": "University of Auckland  Careers Day for computing science graduates",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "University of Auckland  Careers Day",
+      "Url": "https://iworkplace.sharepoint.com/sites/UOACareers"
+    },
+    "Function": "Corporate Management",
+    "Activity": "Human Resources",
+    "Subactivity": "Recruitment"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "00ef8e15-7a5a-4209-a34c-2c093dffc6cc",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(62)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(62)/ContentType",
+    "Title": "Waste Management",
+    "SFDesc": null,
+    "SIAStatus": "01 Request",
+    "SFLink": null,
+    "Function": "Environmental Management",
+    "Activity": "Waste Management",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "08ce7922-9eaa-4c44-96bf-53158d59a5c3",
+    "odata.etag": "\"2\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(101)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(101)/ContentType",
+    "Title": "Water Conservation Campaign",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Water Conservation Campaign",
+      "Url": "https://iworkplace.sharepoint.com/sites/WaterConservation"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Communications and Support"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "016e542c-8c05-4787-85ab-f177d113be5d",
+    "odata.etag": "\"7\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(11)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(11)/ContentType",
+    "Title": "Water Supply",
+    "SFDesc": null,
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Water Supply",
+      "Url": "https://iworkplace.sharepoint.com/sites/watersupply"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": null
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "564d9e19-166e-4672-a032-b35ffe19492a",
+    "odata.etag": "\"7\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(85)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(85)/ContentType",
+    "Title": "Water Supply Communications",
+    "SFDesc": "This Team provides Comms support for Council staff who work with our Water Supply customers.",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Water Supply Communications",
+      "Url": "https://iworkplace.sharepoint.com/sites/WaterSupplyCommunications"
+    },
+    "Function": "Infrastructure Management",
+    "Activity": "Water Supply",
+    "Subactivity": "Communications and Support"
+  },
+  {
+    "odata.type": "SP.Data.SitesRegisterItem",
+    "odata.id": "0f0e0de6-b65a-4ef6-b20d-c447dfbda637",
+    "odata.etag": "\"6\"",
+    "odata.editLink": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(15)",
+    "ContentType@odata.navigationLinkUrl": "Web/Lists(guid'2b309a30-4a12-4167-a143-750601cffada')/Items(15)/ContentType",
+    "Title": "Workspaces",
+    "SFDesc": "Hub site for workspaces",
+    "SIAStatus": "03 Active",
+    "SFLink": {
+      "Description": "Workspaces",
+      "Url": "https://iworkplace.sharepoint.com/sites/Workspaces"
+    },
+    "Function": null,
+    "Activity": null,
+    "Subactivity": null
+  }
+]
